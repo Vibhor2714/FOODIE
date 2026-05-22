@@ -1,0 +1,17 @@
+<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="420" fill="white"/>
+  <g stroke="#ff3b12" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M116 93C145 91 178 120 184 151C154 151 125 136 116 93Z" fill="#ff3b12"/>
+    <path d="M129 124C145 143 163 153 187 158"/>
+    <path d="M245 136L305 76"/>
+    <path d="M263 154L323 94"/>
+    <path d="M282 173L340 115"/>
+    <path d="M222 170L301 249"/>
+    <path d="M211 179L146 244"/>
+    <path d="M181 188C178 148 244 148 241 189"/>
+    <path d="M109 247H311"/>
+    <path d="M126 247C132 207 164 180 210 180C255 180 288 207 294 247"/>
+    <path d="M139 264H281"/>
+  </g>
+  <text x="210" y="340" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="900" letter-spacing="11" fill="#050505">FOODIE</text>
+</svg>
